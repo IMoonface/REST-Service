@@ -1,5 +1,5 @@
-# REST-Service Homework
-A simple REST-Service created with the help of Java, Spring Boot and Maven (converted to Gradle).
+# REST-Service Homework (Gradle Version)
+A simple REST-Service created with the help of Java, Spring Boot and Gradle.
 The service allow managing Todos.
 A Todo contains an arbitrary list of subtasks and is
 structured as described below:
